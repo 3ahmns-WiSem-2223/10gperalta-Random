@@ -7,6 +7,10 @@ Was ist der Unterschied zwischen Random aus System bzw. aus UnityEngine?
 Gib jeweils ein Beispiel. In UnityEngine sind es zufällige Werte in jedem neuem Spiel/Runde und beim System  kann mehrere Zufallszahlengeneratoren mit unterschiedlichen Startwerten gleichzeitig Daten gelesen.
 
 Warum ist es sinnvoll den seed zu setzen bei Random?
+Um mit ähnlichen Werten zu arbeiten
 
 Was macht 
 Random.Range 
+-> Sucht eine Zufällige Position in einer bestimmten Range
+
+Warum ist es sinnvoll den seed zu setzen bei Random?
