@@ -13,4 +13,4 @@ Was macht
 Random.Range 
 -> Sucht eine Zufällige Position in einer bestimmten Range
 
-Warum ist es sinnvoll den seed zu setzen bei Random?
+UnityVersion: 2020.3.18f1 VisualStudioVersion: Visual Studio 2019
